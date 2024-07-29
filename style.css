@@ -1,0 +1,16 @@
+.capcha{
+  display: inline-block;
+  border: solid black 1px;
+  padding: 5px;
+  text-decoration: line-through;
+}
+#refresh{
+  margin: 10px;
+  background-color: black;
+  color: white;
+}
+#submit{
+  margin: 10px;
+  background-color: black;
+  color: white;
+}
